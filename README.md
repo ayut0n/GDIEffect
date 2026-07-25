@@ -27,8 +27,8 @@ Ctrl+Shift+X - завершение работы программы
 
 ### Установка
 
-1. Перейдите в раздел Release и скачайте файл GDIEffexct.exe
-2. Запустите GDIEffexct.exe
+1. Перейдите в раздел [Release](https://github.com/ayut0n/GDIEffect/releases/tag/v1.0.0) и скачайте файл GDIEffect.exe
+2. Запустите GDIEffect.exe
 
 ### Самостоятельная сборка
 
@@ -72,8 +72,8 @@ Ctrl+Shift+X - Exit the program
 
 ### Installation
 
-1. Go to the “Release” section and download the GDIEffexct.exe file
-2. Run GDIEffexct.exe
+1. Go to the [“Release” section](https://github.com/ayut0n/GDIEffect/releases/tag/v1.0.0) and download the GDIEffect.exe file
+2. Run GDIEffect.exe
 
 ### Building from Source
 
