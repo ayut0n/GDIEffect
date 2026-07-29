@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/github_projects/GDI/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\GDIEffect.dir\\main.cpp.obj -c D:\\github_projects\\GDI\\main.cpp",
-  "file": "D:/github_projects/GDI/main.cpp",
-  "output": "CMakeFiles/GDIEffect.dir/main.cpp.obj"
-}
-]

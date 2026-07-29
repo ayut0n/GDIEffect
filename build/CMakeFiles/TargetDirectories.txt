@@ -1,3 +1,0 @@
-D:/github_projects/GDI/build/CMakeFiles/GDIEffect.dir
-D:/github_projects/GDI/build/CMakeFiles/edit_cache.dir
-D:/github_projects/GDI/build/CMakeFiles/rebuild_cache.dir

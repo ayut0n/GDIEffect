@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\salinewin_extreme.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\salinewin_extreme.dir/objects.a @CMakeFiles\salinewin_extreme.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -g -municode -Wl,--whole-archive CMakeFiles\salinewin_extreme.dir/objects.a -Wl,--no-whole-archive -o salinewin_extreme.exe -Wl,--out-implib,libsalinewin_extreme.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\salinewin_extreme.dir\linkLibs.rsp

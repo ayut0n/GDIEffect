@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\GDIEffect.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\GDIEffect.dir/objects.a @CMakeFiles\GDIEffect.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -g -static -Wl,--whole-archive CMakeFiles\GDIEffect.dir/objects.a -Wl,--no-whole-archive -o GDIEffect.exe -Wl,--out-implib,libGDIEffect.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GDIEffect.dir\linkLibs.rsp
